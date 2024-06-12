@@ -1,0 +1,9 @@
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/Qt-Calculator.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/edit_cache.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/rebuild_cache.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/list_install_components.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/install.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/install/local.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/install/strip.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/Qt-Calculator_autogen_timestamp_deps.dir
+/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/CMakeFiles/Qt-Calculator_autogen.dir

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+8ed89a9128a96b825ffe92a5117d213f CMakeFiles/Qt-Calculator_autogen
+8ed89a9128a96b825ffe92a5117d213f CMakeFiles/Qt-Calculator_autogen_timestamp_deps
+dce9f57cf80022666c69b0c3552b237d Qt-Calculator_autogen/timestamp

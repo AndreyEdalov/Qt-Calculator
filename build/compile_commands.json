@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/Qt-Calculator_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Qt-Calculator.dir/Qt-Calculator_autogen/mocs_compilation.cpp.o -c /Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/Qt-Calculator_autogen/mocs_compilation.cpp",
+  "file": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/Qt-Calculator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Qt-Calculator.dir/Qt-Calculator_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/Qt-Calculator_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Qt-Calculator.dir/main.cpp.o -c /Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/main.cpp",
+  "file": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/main.cpp",
+  "output": "CMakeFiles/Qt-Calculator.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/build/Qt-Calculator_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Qt-Calculator.dir/mainwindow.cpp.o -c /Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/mainwindow.cpp",
+  "file": "/Users/andreyedalov/Desktop/Prog/C++/QT/Qt-Calculator/mainwindow.cpp",
+  "output": "CMakeFiles/Qt-Calculator.dir/mainwindow.cpp.o"
+}
+]
